@@ -153,7 +153,7 @@ Eastman Chemical
 Eaton Corp.
 eBay Inc.
 Ecolab Inc.
-EIX,Edison Int'l,Utilities
+Edison Int'l
 Edwards Lifesciences
 Electronic Arts
 EMC Corp.
@@ -167,7 +167,7 @@ Equity Residential
 Estee Lauder Cos.
 Exelon Corp.
 Expedia Inc.
-EXPD,Expeditors Int'l,Industrials
+Expeditors Int'l
 Express Scripts
 Exxon Mobil Corp.
 F5 Networks
@@ -210,7 +210,7 @@ Graham Holdings Co
 Grainger (W.W.) Inc.
 Halliburton Co.
 Harley-Davidson
-HAR,Harman Int'l Industries,Consumer Discretionary
+Harman Int'l Industries
 Harris Corporation
 Hartford Financial Svc.Gp.
 Hasbro Inc.
@@ -221,7 +221,7 @@ The Hershey Company
 Hess Corporation
 Hewlett-Packard
 Home Depot
-HON,Honeywell Int'l Inc.,Industrials
+Honeywell Int'l Inc.
 Hormel Foods Corp.
 D. R. Horton
 Hospira Inc.
@@ -236,7 +236,7 @@ Intel Corp.
 IntercontinentalExchange Inc.
 Interpublic Group
 International Bus. Machines
-IFF,International Flav/Frag,Materials
+International Flav/Frag
 International Game Technology
 International Paper
 Intuit Inc.
@@ -258,7 +258,7 @@ Kimberly-Clark
 Kimco Realty
 Kinder Morgan
 KLA-Tencor Corp.
-KSS,Kohl's Corp.,Consumer Discretionary
+Kohl's Corp.
 Kraft Foods Group Inc.
 Kroger Co.
 L Brands Inc
@@ -275,21 +275,21 @@ Linear Technology Corp.
 Lockheed Martin Corp.
 Loews Corp.
 Lorillard Inc.
-LOW,Lowe's Cos.,Consumer Discretionary
+Lowe's Cos.
 LSI Corporation
 LyondellBasell Industries N.V.
 M&T Bank Corp.
 Macerich Co
-M,Macy's Inc.,Consumer Discretionary
+Macy's Inc.
 Marathon Oil Corp.
 Marathon Petroleum
-MAR,Marriott Int'l.,Consumer Discretionary
+Marriott Int'l.
 Marsh & McLennan
 Masco Corp.
 Mastercard Inc.
 Mattel Inc.
 McCormick & Co.
-MCD,McDonald's Corp.,Consumer Discretionary
+McDonald's Corp.
 McGraw Hill Financial Inc
 McKesson Corp.
 Mead Johnson
@@ -306,7 +306,7 @@ Molson Coors Brewing Company
 Mondelez International Inc
 Monsanto Co.
 Monster Beverage
-MCO,Moody's Corp,Financials
+Moody's Corp
 Morgan Stanley
 The Mosaic Company
 Motorola Solutions Inc.
@@ -335,7 +335,7 @@ Northrop Grumman Corp.
 NRG Energy
 Nucor Corp.
 Nvidia Corporation
-ORLY,O'Reilly Automotive,Consumer Discretionary
+O'Reilly Automotive
 Occidental Petroleum
 Omnicom Group
 ONEOK
@@ -348,7 +348,7 @@ Patterson Companies
 Paychex Inc.
 Peabody Energy
 Pentair Ltd.
-PBCT,People's United Bank,Financials
+People's United Bank
 Pepco Holdings Inc.
 PepsiCo Inc.
 PerkinElmer
