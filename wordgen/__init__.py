@@ -35,3 +35,10 @@ def town_name():
 
 def first_name():
     return random.choice( words_from("first_names.txt")).title()
+
+def last_name():
+    return random.choice( words_from("last_names.txt")).title()
+
+
+def full_name():
+    return " ".join((first_name(), last_name())).title()
