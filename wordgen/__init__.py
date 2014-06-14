@@ -1,4 +1,5 @@
 import random
+import string
 
 from functools32 import lru_cache
 from path import path
@@ -56,3 +57,15 @@ def last_name():
 
 def full_name():
     return " ".join((first_name(), last_name())).title()
+
+
+def random_chars(chars, length):
+    return ''.join([random.choice(chars) for i in range(length)])
+
+
+def random_digits(length):
+    return random_chars(string.digits, length)
+
+
+def phone_number():
+    return "(%s) %s-%s" % map(random_digits, [3, 3, 4])
