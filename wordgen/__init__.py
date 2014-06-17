@@ -68,4 +68,4 @@ def random_digits(length):
 
 
 def phone_number():
-    return "(%s) %s-%s" % map(random_digits, [3, 3, 4])
+    return "(%s) %s-%s" % tuple(map(random_digits, [3, 3, 4]))
